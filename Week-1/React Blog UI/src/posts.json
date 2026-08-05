@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "title": "Closures Kya Hote Hain?",
+    "author": "Meera",
+    "category": "JavaScript",
+    "date": "02 July 2026",
+    "description": "Closures samajhna mushkil lagta hai but ye sirf ek function hota hai jo apni purani values yaad rakhta hai."
+  },
+  {
+    "id": 2,
+    "title": "useEffect Hook Basics",
+    "author": "Rohan",
+    "category": "React",
+    "date": "08 July 2026",
+    "description": "useEffect ka use kab aur kaise karna hai, ye samajhne ke liye easy examples."
+  },
+  {
+    "id": 3,
+    "title": "Big-O Notation Easy Way Mein",
+    "author": "Meera",
+    "category": "DSA",
+    "date": "21 June 2026",
+    "description": "Time complexity ko simple language mein samjhaya gaya hai, bina whiteboard ke."
+  },
+  {
+    "id": 4,
+    "title": "Flexbox vs Grid",
+    "author": "Ayaan",
+    "category": "CSS",
+    "date": "30 May 2026",
+    "description": "Kab Flexbox use karein aur kab Grid, iska simple tarika."
+  },
+  {
+    "id": 5,
+    "title": "Mera Pehla Hackathon Experience",
+    "author": "Sanchita",
+    "category": "Career",
+    "date": "20 July 2026",
+    "description": "30 ghante ke hackathon mein maine kya seekha, ek chhoti si kahani."
+  },
+  {
+    "id": 6,
+    "title": "React Mein State Kaise Kaam Karta Hai",
+    "author": "Rohan",
+    "category": "React",
+    "date": "14 June 2026",
+    "description": "State aur props ka basic difference easy words mein."
+  },
+  {
+    "id": 7,
+    "title": "Recursion Samjho Step by Step",
+    "author": "Ayaan",
+    "category": "DSA",
+    "date": "18 May 2026",
+    "description": "Call stack ko haath se draw karke recursion samajhna aasan ho jaata hai."
+  },
+  {
+    "id": 8,
+    "title": "Resume Kaise Banayein",
+    "author": "Sanchita",
+    "category": "Career",
+    "date": "27 April 2026",
+    "description": "CS student ke resume mein sabse pehle kya likhna chahiye."
+  }
+]
