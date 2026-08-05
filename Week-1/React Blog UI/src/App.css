@@ -1,0 +1,55 @@
+.App {
+  max-width: 700px;
+  margin: 0 auto;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+.search-box {
+  width: 90%;
+  padding: 10px;
+  font-size: 16px;
+  margin: 15px 0;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.filter-buttons {
+  margin-bottom: 20px;
+}
+
+.filter-buttons button {
+  padding: 8px 14px;
+  margin: 4px;
+  border: 1px solid #333;
+  background-color: white;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.active-btn {
+  background-color: #333 !important;
+  color: white !important;
+}
+
+.post-list {
+  text-align: left;
+}
+
+.post-card {
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  padding: 15px;
+  margin-bottom: 15px;
+  background-color: #f9f9f9;
+}
+
+.post-card h2 {
+  margin: 0 0 5px 0;
+}
+
+.post-info {
+  color: gray;
+  font-size: 14px;
+}
